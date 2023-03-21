@@ -3,4 +3,4 @@ In this project we are use sklearn library to to predict a old vehicle price pre
 in this project use regression analysis to predict price 
 .
 .
-[image](https://user-images.githubusercontent.com/117170702/226526549-0a2dd271-c2bb-4b14-b0b7-e7bec615fcaf.png)
+![image](https://user-images.githubusercontent.com/117170702/226527148-e2356e4a-1b21-4dbc-9838-2e6997b8064d.png)
